@@ -1,0 +1,13 @@
+{
+  "name": "verify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0",
+    "@truffle/hdwallet-provider": "^2.0.3",
+    "dotenv": "^16.0.0",
+    "solc": "^0.8.12",
+    "truffle-plugin-verify": "^0.5.21"
+  }
+}
